@@ -1,6 +1,6 @@
 - 👋 Olá, sou o @lucas-a18r
 - 👀 Estou Interessado em desenvolvimento web
-- 🌱 Atualmente, estou aprendendo HTML, Css e JavaScript
+- 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript
 - 💞️ Pretendo colaborar ...
 - 📫 Mande um e-mail em joselucasar18@gmail.com
 
